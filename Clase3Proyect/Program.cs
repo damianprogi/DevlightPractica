@@ -191,5 +191,4 @@ e1.AddLibro(l2);
 e1.CantLibrosSinLeer();
 e1.CantPáginasLeidas();
 e1.LibrosLeidos();
-
 e1.RemoveUltimoLibro();
